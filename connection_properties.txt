@@ -1,0 +1,5 @@
+user = root
+password = nottherealpassword
+useSSL = false
+autoReconnect = true
+maxReconnects = 4
